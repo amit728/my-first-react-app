@@ -6,7 +6,7 @@ class About extends React.Component{
         super();
         console.warn("Constructor Called!...");
         this.state = {
-            name: 'Amit Gupta',
+            name: 'Anup Gupta',
             address: 'Gopalganj'
         }
     }
